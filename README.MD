@@ -1,9 +1,9 @@
-### Hi there, I'm Abdelilah - aka [abdelilahelhaddad][^_^] 👋
+### Hi there, I'm Abdelilah Elhaddad (^_^) 👋
 
-## I'm a Developer, Designer and Marketer!!
+## I'm a Front-End and WordPress Developer!!
 
-- 🔭 I just start Freelancing and Selling Digital Products!
-- 🌱 I’m currently learning everything 🤣
+- 🔭 I just start Freelancing!
+- 🌱 I’m currently learning everything About Front-End and WordPress🤣
 - 👯 I’m looking to Develop myself 
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Create more side Projects
 - ⚡ I love to watching Anime and playing Video Games
